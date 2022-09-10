@@ -1,0 +1,45 @@
+body{
+    background-color: rgba(255, 255, 255, 0.259);
+    margin: auto;
+}
+.search{
+    border:none;
+
+}
+.icon{
+    height: 5px;
+    position: relative;
+    top: -15px;
+}
+.mad{
+    margin-top: -5px;
+}
+.image{
+    border-radius: 50%;
+    object-fit: cover;
+    width: 25;
+    height: 50px;
+    border: 2px solid rgb(238, 39, 82);
+}
+.e{
+    margin-top: 90px;
+}
+.story{
+    font-size: 10px;
+    color: black;
+    text-decoration: none;
+}
+.profil{
+    border-radius: 50%;
+    object-fit: cover;
+    width: 25;
+    height: 40px;
+}
+.link{
+    font-size: 10px;
+    color: gray;
+    text-decoration: none;
+}
+.k{
+    margin-top: -210px;
+}
